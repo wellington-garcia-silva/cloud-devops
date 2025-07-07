@@ -1,4 +1,5 @@
-# Imersão DevOps - Alura Google Cloud
+• Testes e validação de endpoint público.
+# Cloud DevOps
 
 Este projeto é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e matrículas em uma instituição de ensino.
 
@@ -11,7 +12,7 @@ Este projeto é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e
 ## Passos para subir o projeto
 
 1. **Faça o download do repositório:**
-   [Clique aqui para realizar o download](https://github.com/guilhermeonrails/imersao-devops/archive/refs/heads/main.zip)
+   [Clique aqui para realizar o download]
 
 2. **Crie um ambiente virtual:**
    ```sh
