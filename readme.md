@@ -1,4 +1,3 @@
-• Testes e validação de endpoint público.
 # Cloud DevOps
 
 Este projeto é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e matrículas em uma instituição de ensino.
